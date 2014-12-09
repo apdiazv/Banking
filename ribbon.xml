@@ -1,0 +1,61 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" loadImage="OnLoadImage">
+  <ribbon startFromScratch="false">
+    <tabs>
+      <tab id="dbCustomTab" label="BANKING" visible="true">
+	  
+        <group id="gr_cargaDatos" label="Procesos de Carga">	
+			<button id="cargaExcel" image="xls_img.gif" size="large" label="Carga de Excel" onAction="ribbonOpenForm" tag="frmCargaInterfazExcel" supertip="Este control permite cargar los libro Excel"/>
+			<separator id="separadorCargaExcel"/>
+			<button id="cargaBo07" image="accdb_img.gif" size="normal" label="Carga BO07" onAction="ribbonOpenForm" tag="frmCargaBO07"/>
+			<button id="CargaBo29" image="accdb_img.gif" size="normal" label="Carga BO29" onAction="ribbonOpenForm" tag="frmCargaBO29"/>
+			<button id="cargaSabana" image="accdb_img.gif" size="normal" label="Carga Sábana" onAction="ribbonOpenForm" tag="frmCargaSabana"/>
+			<separator id="separadorCargaAccess"/>
+			
+			<splitButton id="CargaPorInterfaz" size="large">
+                   <button id="BotonOpcionesCarga" image="newFile_img.gif" label="Carga Tasas y Divisas"/>
+                      <menu id="Menu1" itemSize="large">
+                         <button id="cargaTasasCuentasCorrientes" image="newFile_img.gif" label="Carga Tasas Cuentas Corrientes" onAction="ribbonOpenForm" tag="frmAgregaTasaCtaCorriente"/>
+						 <button id="cargaUF" image="newFile_img.gif" label="Calcula y Carga Valor UF" onAction="ribbonOpenForm" tag="frmCalculaUF"/>
+                         <button id="cargaUSD" image="newFile_img.gif" label="Carga Valor USD" onAction="ribbonOpenForm" tag="frmCargaUSD"/>
+                         
+                      </menu>
+            </splitButton>
+		</group>
+		
+		<group id="gr_calculoResultados" label="Cálculo de Resultados">			
+			<button id="cuentasCorrientes" image="refresh_img.gif" size="normal" label="Cuentas Corrientes" onAction="ribbonOpenForm" tag="frmActualizaTasasCtasCorrientes"/>
+			<button id="partidasInterbancarias" image="refresh_img.gif" size="normal" label="Partidas a Interbancarias" onAction="ribbonOpenForm" tag="frmActualizaProductosAInterbancaria"/>
+			<button id="proceso" image="refresh_img.gif" size="normal" label="Proceso" onAction="ribbonOpenForm" tag="frmCalculoResultados"/>
+			<separator id="separadorResultados"/>
+			<splitButton id="ResultadosTotales" size="large">
+                   <button id="BotonOpcionesResultados" image="gabeta_img.gif" label="Resultados"/>
+                      <menu id="Menu2" itemSize="large">
+                         <button id="resultadoDia" image="gabeta_img.gif" label="Resultados por Día" onAction="ribbonOpenQuery" tag="qryResultadosDiarios"/>
+                         <button id="ResultadoDescalceCLP" image="gabeta_img.gif" label="Descalce CLP" onAction="calcularResultadoDescalceCLP" tag="CLP"/>
+                         <button id="ResultadoDescalceUS" image="gabeta_img.gif" label="Descalce USD USX" onAction="calcularResultadoDescalceUS" tag="US"/>
+						 <button id="ResultadoDescalceUF" image="gabeta_img.gif" label="Descalce CLF" onAction="calcularResultadoDescalceUF" tag="UF"/>
+                      </menu>
+            </splitButton>
+
+			        
+        </group>
+		
+		<group id="gr_datosEtaticos" label="Datos Estáticos">
+        	<button id="parametrosCalculo" image="config_img.gif" size="normal" label="Parámetros de Cálculo" onAction="ribbonOpenForm" tag=" frmParametrosCalculo"/>
+			<button id="asociacionProductoMonedaTasa" image="config_img.gif" size="normal" label="Asociación Producto-Moneda Tasa" onAction="ribbonOpenForm" tag="frmProductoMonedaTasa"/>
+			<button id="feriados" image="config_img.gif" size="normal" label="Feriados" onAction="ribbonOpenForm" tag="frmNuevoFeriado"/>
+			<button id="cuentasExcluidas" image="config_img.gif" size="normal" label="Cuentas Excluidas" onAction="ribbonOpenForm" tag="frmCuentasExcluidas"/>	
+			<button id="DescripcionProducto" image="config_img.gif" size="normal" label="Descripción de Productos" onAction="ribbonOpenForm" tag="frmDescripcionDeProductos"/>
+		</group>
+		
+		<group id="gr_Info" label="Información">
+        	<button id="creasys_img" image="creasys_img.gif" size="large" label="Creasys" onAction="openUrl" tag="documetation"/>
+			
+						
+		</group>
+		
+		
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
