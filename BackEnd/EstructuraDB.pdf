@@ -1,0 +1,2214 @@
+%PDF-1.3
+%‚„œ”
+2 0 obj
+<<
+/Length 4864
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+q
+21.599 761.521 102 11.04 re
+W n
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0 Tc
+0 Tw
+(A)Tj
+ET
+Q
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 27.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(PORCuentasGlosas)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field     Type      Extra)Tj
+0 -1.4267 TD
+(P  Id        INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   TPO       TEXT      Allow Null)Tj
+T*
+(   GLEDGER   TEXT      Allow Null)Tj
+T*
+(   GLOSA     TEXT      Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 666.241 559.56 15.72 re
+B*
+0.12 w 
+17.999 651.961 m
+577.559 651.961 l
+17.999 651.841 m
+577.559 651.841 l
+17.999 651.721 m
+577.559 651.721 l
+17.999 651.601 m
+577.559 651.601 l
+17.999 651.481 m
+577.559 651.481 l
+17.999 651.361 m
+577.559 651.361 l
+S
+q
+21.599 669.481 156 11.04 re
+W n
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 672.481 Tm
+0 0 0 rg
+0 Tc
+(A)Tj
+ET
+Q
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 27.5991 672.481 Tm
+0 0 0 rg
+0.0023 Tc
+(uxiliarTasaCtasCorrientes)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 656.1609 Tm
+-0.0002 Tc
+(   Field             Type      Extra)Tj
+0 -1.4133 TD
+(P  Id                INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   IdCliente         INTEGER   )Tj
+T*
+(   IdRegistroSigir   INTEGER   )Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 585.841 559.56 15.72 re
+B*
+0.12 w 
+17.999 571.561 m
+577.559 571.561 l
+17.999 571.441 m
+577.559 571.441 l
+17.999 571.321 m
+577.559 571.321 l
+17.999 571.201 m
+577.559 571.201 l
+17.999 571.081 m
+577.559 571.081 l
+17.999 570.961 m
+577.559 570.961 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 592.0809 Tm
+0 0 0 rg
+0.0023 Tc
+(BaseTasa)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 575.7609 Tm
+-0.0002 Tc
+(   Field   Type      Extra)Tj
+0 -1.4267 TD
+(P  Id      INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Base    varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 516.841 559.56 15.72 re
+B*
+0.12 w 
+17.999 502.561 m
+577.559 502.561 l
+17.999 502.441 m
+577.559 502.441 l
+17.999 502.321 m
+577.559 502.321 l
+17.999 502.201 m
+577.559 502.201 l
+17.999 502.081 m
+577.559 502.081 l
+17.999 501.961 m
+577.559 501.961 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 523.0809 Tm
+0 0 0 rg
+0.0023 Tc
+(CalculoProducto)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 506.7609 Tm
+-0.0002 Tc
+(   Field         Type      Extra)Tj
+0 -1.4133 TD
+(P  Id            INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   SRC_ID        varchar   Allow Null)Tj
+T*
+(   PROD          varchar   Allow Null)Tj
+T*
+(   CCY           varchar   Allow Null)Tj
+T*
+(   IdQueEstado   INTEGER   Allow Null)Tj
+T*
+(   IdQueTasa     INTEGER   Allow Null)Tj
+T*
+(   IdTipoTasa    INTEGER   Allow Null)Tj
+T*
+(   IdBase        INTEGER   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 378.841 559.56 15.72 re
+B*
+0.12 w 
+17.999 364.561 m
+577.559 364.561 l
+17.999 364.441 m
+577.559 364.441 l
+17.999 364.321 m
+577.559 364.321 l
+17.999 364.201 m
+577.559 364.201 l
+17.999 364.081 m
+577.559 364.081 l
+17.999 363.961 m
+577.559 363.961 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 385.0809 Tm
+0 0 0 rg
+0.0023 Tc
+(CampoTipoInterfaz)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 368.7609 Tm
+-0.0002 Tc
+(   Field            Type      Extra)Tj
+0 -1.4267 TD
+(P  Id               INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Nombre           varchar   Allow Null)Tj
+T*
+(   IdTipoInterfaz   INTEGER   Allow Null)Tj
+T*
+(   Descripcion      varchar   Allow Null)Tj
+T*
+(   Tipo             varchar   Allow Null)Tj
+T*
+(   SeImporta        integer   Allow Null)Tj
+T*
+(   EsSigno          integer   Allow Null)Tj
+T*
+(   Imprescindible   INTEGER   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 240.721 559.56 15.72 re
+B*
+0.12 w 
+17.999 226.441 m
+577.559 226.441 l
+17.999 226.321 m
+577.559 226.321 l
+17.999 226.201 m
+577.559 226.201 l
+17.999 226.081 m
+577.559 226.081 l
+17.999 225.961 m
+577.559 225.961 l
+17.999 225.841 m
+577.559 225.841 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 246.961 Tm
+0 0 0 rg
+0.0023 Tc
+(ClienteSegmento)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 230.641 Tm
+-0.0002 Tc
+(   Field        Type      Extra)Tj
+0 -1.4133 TD
+(P  Id           INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   IDENT_CLI    VARCHAR   Allow Null)Tj
+T*
+(   IdSegmento   INTEGER   Allow Null)Tj
+T*
+(   Nombre       VARCHAR   Allow Null)Tj
+T*
+(   Rut          VARCHAR   Allow Null)Tj
+ET
+17.999 148.681 m
+577.559 148.681 l
+17.999 148.561 m
+577.559 148.561 l
+17.999 148.441 m
+577.559 148.441 l
+17.999 148.321 m
+577.559 148.321 l
+17.999 148.201 m
+577.559 148.201 l
+17.999 148.081 m
+577.559 148.081 l
+S
+BT
+9.001 0 0 9 17.9991 153.121 Tm
+(   Index                        Fields   Extra)Tj
+0 -1.4533 TD
+(   ClienteSegmentoByIDENT_CLI            )Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Length 4797
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(ConsolidadoOperacionesSigir)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field              Type      Extra)Tj
+0 -1.4267 TD
+(P  Id                 INTEGER   )Tj
+0 -1.28 TD
+(   BOOK_DT            INTEGER   Allow Null)Tj
+T*
+(   SRC_ID             VARCHAR   Allow Null)Tj
+T*
+(   CON_STA            VARCHAR   Allow Null)Tj
+T*
+(   DLNQ_STA           VARCHAR   Allow Null)Tj
+T*
+(   PROD               VARCHAR   Allow Null)Tj
+T*
+(   IDENT_CLI          VARCHAR   Allow Null)Tj
+T*
+(   CC                 VARCHAR   Allow Null)Tj
+T*
+(   CON_NO             VARCHAR   Allow Null)Tj
+T*
+(   STRT_DT            INTEGER   Allow Null)Tj
+T*
+(   END_DT             INTEGER   Allow Null)Tj
+T*
+(   CCY                VARCHAR   Allow Null)Tj
+T*
+(   OCY_NOM_AMT_SIGN   VARCHAR   Allow Null)Tj
+T*
+(   OCY_NOM_AMT        REAL      Allow Null)Tj
+T*
+(   OCY_INT_AMT_SING   VARCHAR   Allow Null)Tj
+T*
+(   OCY_INT_AMT        REAL      Allow Null)Tj
+T*
+(   INT_RT             REAL      Allow Null)Tj
+T*
+(   RT_METH            VARCHAR   Allow Null)Tj
+T*
+(   POOL_RT            REAL      Allow Null)Tj
+T*
+(   OCY_ORIG_NOM_AMT   REAL      Allow Null)Tj
+T*
+(   INT_RT_INT         REAL      Allow Null)Tj
+T*
+(   POOL_RT_INT        REAL      Allow Null)Tj
+T*
+(   NEXT_BOOK_DT       REAL      Allow Null)Tj
+T*
+(   IdCliente          INTEGER   Allow Null)Tj
+ET
+17.999 447.241 m
+577.559 447.241 l
+17.999 447.121 m
+577.559 447.121 l
+17.999 447.001 m
+577.559 447.001 l
+17.999 446.881 m
+577.559 446.881 l
+17.999 446.761 m
+577.559 446.761 l
+17.999 446.641 m
+577.559 446.641 l
+S
+BT
+9.001 0 0 9 17.9991 451.6809 Tm
+(   Index                                Fields   Extra)Tj
+0 -1.44 TD
+(   BOOK_DT                                       )Tj
+0 -1.2533 TD
+(   ConsBookDT-SrcId                              )Tj
+T*
+(   ConsolidadoOperacionesSigir-CCY               )Tj
+T*
+(   ConsolidadoOperacionesSigir-PROD              )Tj
+0 -1.24 TD
+(   ConsolidadoOperacionesSigir-SRC_ID            )Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 359.401 559.56 15.72 re
+B*
+0.12 w 
+17.999 345.121 m
+577.559 345.121 l
+17.999 345.001 m
+577.559 345.001 l
+17.999 344.881 m
+577.559 344.881 l
+17.999 344.761 m
+577.559 344.761 l
+17.999 344.641 m
+577.559 344.641 l
+17.999 344.521 m
+577.559 344.521 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 365.6409 Tm
+0 0 0 rg
+0.0023 Tc
+(CuentasExcluidas)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 349.3209 Tm
+-0.0002 Tc
+(   Field       Type      Extra)Tj
+0 -1.4267 TD
+(P  Id          INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   SRC_ID      TEXT      Allow Null)Tj
+T*
+(   IdGLEDGER   INTEGER   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 278.881 559.56 15.72 re
+B*
+0.12 w 
+17.999 264.601 m
+577.559 264.601 l
+17.999 264.481 m
+577.559 264.481 l
+17.999 264.361 m
+577.559 264.361 l
+17.999 264.241 m
+577.559 264.241 l
+17.999 264.121 m
+577.559 264.121 l
+17.999 264.001 m
+577.559 264.001 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 285.121 Tm
+0 0 0 rg
+0.0023 Tc
+(DEPAS400)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 268.801 Tm
+-0.0002 Tc
+(   Field                 Type           Extra)Tj
+0 -1.4133 TD
+(   NumeroCliente         float          Allow Null)Tj
+0 -1.28 TD
+(   DescripcionCliente    varchar\(255\)   Allow Null)Tj
+T*
+(   Moneda                varchar\(255\)   Allow Null)Tj
+T*
+(   NumeroContrato        float          Allow Null)Tj
+T*
+(   FechaInicio           float          Allow Null)Tj
+T*
+(   FechaTermino          float          Allow Null)Tj
+T*
+(   Capital               float          Allow Null)Tj
+T*
+(   TasaInteres           float          Allow Null)Tj
+T*
+(   SpreadCalculado       float          Allow Null)Tj
+T*
+(   RentabilidadEnPesos   float          Allow Null)Tj
+T*
+(   NumeroDeposito        varchar\(255\)   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 106.321 559.56 15.72 re
+B*
+0.12 w 
+17.999 92.041 m
+577.559 92.041 l
+17.999 91.921 m
+577.559 91.921 l
+17.999 91.801 m
+577.559 91.801 l
+17.999 91.681 m
+577.559 91.681 l
+17.999 91.561 m
+577.559 91.561 l
+17.999 91.441 m
+577.559 91.441 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 112.5609 Tm
+0 0 0 rg
+0.0023 Tc
+(DESCRIPCION_PRODUCTO)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 96.241 Tm
+-0.0002 Tc
+(   Field            Type           Extra)Tj
+0 -1.4267 TD
+(P  Id               integer        Auto Increment)Tj
+0 -1.28 TD
+(   PROD             varchar\(255\)   Allow Null)Tj
+T*
+(   AP               varchar\(255\)   Allow Null)Tj
+T*
+(   Nombre_Informe   varchar\(255\)   Allow Null)Tj
+ET
+endstream
+endobj
+10 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+12 0 obj
+<<
+/Length 4817
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(DestinoInterfaz)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field         Type      Extra)Tj
+0 -1.4267 TD
+(P  Id            INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   NombreTabla   varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 689.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 675.001 m
+577.559 675.001 l
+17.999 674.881 m
+577.559 674.881 l
+17.999 674.761 m
+577.559 674.761 l
+17.999 674.641 m
+577.559 674.641 l
+17.999 674.521 m
+577.559 674.521 l
+17.999 674.401 m
+577.559 674.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 695.5209 Tm
+0 0 0 rg
+0.0023 Tc
+(Divisas)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 679.2009 Tm
+-0.0002 Tc
+(   Field    Type        Extra)Tj
+0 -1.4133 TD
+(P  Id       INTEGER     Auto Increment)Tj
+0 -1.28 TD
+(   Divisa   TEXT\(255\)   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 620.401 559.56 15.72 re
+B*
+0.12 w 
+17.999 606.121 m
+577.559 606.121 l
+17.999 606.001 m
+577.559 606.001 l
+17.999 605.881 m
+577.559 605.881 l
+17.999 605.761 m
+577.559 605.761 l
+17.999 605.641 m
+577.559 605.641 l
+17.999 605.521 m
+577.559 605.521 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 626.6409 Tm
+0 0 0 rg
+0.0023 Tc
+(Feriado)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 610.3209 Tm
+-0.0002 Tc
+(   Field         Type      Extra)Tj
+0 -1.4267 TD
+(P  Id            INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Fecha         integer   Allow Null)Tj
+T*
+(   Descripcion   varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 539.881 559.56 15.72 re
+B*
+0.12 w 
+17.999 525.601 m
+577.559 525.601 l
+17.999 525.481 m
+577.559 525.481 l
+17.999 525.361 m
+577.559 525.361 l
+17.999 525.241 m
+577.559 525.241 l
+17.999 525.121 m
+577.559 525.121 l
+17.999 525.001 m
+577.559 525.001 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 546.1209 Tm
+0 0 0 rg
+0.0023 Tc
+(LogCargaInterfaces)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 529.801 Tm
+-0.0002 Tc
+(   Field            Type      Extra)Tj
+0 -1.4133 TD
+(P  Id               INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   IdInterfaz       INTEGER   Allow Null)Tj
+T*
+(   NombreArchivo    varchar   Allow Null)Tj
+T*
+(   FechaHoraCarga   varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 447.961 559.56 15.72 re
+B*
+0.12 w 
+17.999 433.681 m
+577.559 433.681 l
+17.999 433.561 m
+577.559 433.561 l
+17.999 433.441 m
+577.559 433.441 l
+17.999 433.321 m
+577.559 433.321 l
+17.999 433.201 m
+577.559 433.201 l
+17.999 433.081 m
+577.559 433.081 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 454.2009 Tm
+0 0 0 rg
+0.0023 Tc
+(NombreInterfaz)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 437.881 Tm
+-0.0002 Tc
+(   Field            Type      Extra)Tj
+0 -1.4267 TD
+(P  Id               INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Nombre           VARCHAR   Allow Null)Tj
+T*
+(   IdTipoInterfaz   INTEGER   Allow Null)Tj
+T*
+(   IdTipoArchivo    INTEGER   Allow Null)Tj
+T*
+(   Descripcion      VARCHAR   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 344.401 559.56 15.72 re
+B*
+0.12 w 
+17.999 330.121 m
+577.559 330.121 l
+17.999 330.001 m
+577.559 330.001 l
+17.999 329.881 m
+577.559 329.881 l
+17.999 329.761 m
+577.559 329.761 l
+17.999 329.641 m
+577.559 329.641 l
+17.999 329.521 m
+577.559 329.521 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 350.6409 Tm
+0 0 0 rg
+0.0023 Tc
+(OP07_From_ConsOpSigir)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 334.3209 Tm
+-0.0002 Tc
+(   Field              Type   Extra)Tj
+0 -1.4133 TD
+(   Id                 INT    Allow Null)Tj
+0 -1.28 TD
+(   BOOK_DT            INT    Allow Null)Tj
+T*
+(   SRC_ID             TEXT   Allow Null)Tj
+T*
+(   CON_STA            TEXT   Allow Null)Tj
+T*
+(   DLNQ_STA           TEXT   Allow Null)Tj
+T*
+(   PROD               TEXT   Allow Null)Tj
+T*
+(   IDENT_CLI          TEXT   Allow Null)Tj
+T*
+(   CC                 TEXT   Allow Null)Tj
+T*
+(   CON_NO             TEXT   Allow Null)Tj
+T*
+(   STRT_DT            INT    Allow Null)Tj
+T*
+(   END_DT             INT    Allow Null)Tj
+T*
+(   CCY                TEXT   Allow Null)Tj
+T*
+(   OCY_NOM_AMT_SIGN   TEXT   Allow Null)Tj
+T*
+(   OCY_NOM_AMT        REAL   Allow Null)Tj
+T*
+(   OCY_INT_AMT_SING   TEXT   Allow Null)Tj
+T*
+(   OCY_INT_AMT        REAL   Allow Null)Tj
+T*
+(   INT_RT             REAL   Allow Null)Tj
+T*
+(   RT_METH            TEXT   Allow Null)Tj
+T*
+(   POOL_RT            REAL   Allow Null)Tj
+T*
+(   OCY_ORIG_NOM_AMT   REAL   Allow Null)Tj
+T*
+(   INT_RT_INT         REAL   Allow Null)Tj
+T*
+(   POOL_RT_INT        REAL   Allow Null)Tj
+T*
+(   NEXT_BOOK_DT       REAL   Allow Null)Tj
+T*
+(   IdCliente          INT    Allow Null)Tj
+ET
+endstream
+endobj
+13 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+15 0 obj
+<<
+/Length 4336
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(OP29_From_ConsOpSigir)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field              Type   Extra)Tj
+0 -1.4267 TD
+(   Id                 INT    Allow Null)Tj
+0 -1.28 TD
+(   BOOK_DT            INT    Allow Null)Tj
+T*
+(   SRC_ID             TEXT   Allow Null)Tj
+T*
+(   CON_STA            TEXT   Allow Null)Tj
+T*
+(   DLNQ_STA           TEXT   Allow Null)Tj
+T*
+(   PROD               TEXT   Allow Null)Tj
+T*
+(   IDENT_CLI          TEXT   Allow Null)Tj
+T*
+(   CC                 TEXT   Allow Null)Tj
+T*
+(   CON_NO             TEXT   Allow Null)Tj
+T*
+(   STRT_DT            INT    Allow Null)Tj
+T*
+(   END_DT             INT    Allow Null)Tj
+T*
+(   CCY                TEXT   Allow Null)Tj
+T*
+(   OCY_NOM_AMT_SIGN   TEXT   Allow Null)Tj
+T*
+(   OCY_NOM_AMT        REAL   Allow Null)Tj
+T*
+(   OCY_INT_AMT_SING   TEXT   Allow Null)Tj
+T*
+(   OCY_INT_AMT        REAL   Allow Null)Tj
+T*
+(   INT_RT             REAL   Allow Null)Tj
+T*
+(   RT_METH            TEXT   Allow Null)Tj
+T*
+(   POOL_RT            REAL   Allow Null)Tj
+T*
+(   OCY_ORIG_NOM_AMT   REAL   Allow Null)Tj
+T*
+(   INT_RT_INT         REAL   Allow Null)Tj
+T*
+(   POOL_RT_INT        REAL   Allow Null)Tj
+T*
+(   NEXT_BOOK_DT       REAL   Allow Null)Tj
+T*
+(   IdCliente          INT    Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 435.841 559.56 15.72 re
+B*
+0.12 w 
+17.999 421.561 m
+577.559 421.561 l
+17.999 421.441 m
+577.559 421.441 l
+17.999 421.321 m
+577.559 421.321 l
+17.999 421.201 m
+577.559 421.201 l
+17.999 421.081 m
+577.559 421.081 l
+17.999 420.961 m
+577.559 420.961 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 442.0809 Tm
+0 0 0 rg
+0.0023 Tc
+(PichicataDepos)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 425.7609 Tm
+-0.0002 Tc
+(   Field     Type   Extra)Tj
+0 -1.4133 TD
+(   CON_NO    TEXT   Allow Null)Tj
+0 -1.28 TD
+(   STRT_DT   TEXT   Allow Null)Tj
+T*
+(   POOL_RT   TEXT   Allow Null)Tj
+ET
+17.999 366.841 m
+577.559 366.841 l
+17.999 366.721 m
+577.559 366.721 l
+17.999 366.601 m
+577.559 366.601 l
+17.999 366.481 m
+577.559 366.481 l
+17.999 366.361 m
+577.559 366.361 l
+17.999 366.241 m
+577.559 366.241 l
+S
+BT
+9.001 0 0 9 17.9991 371.2809 Tm
+(   Index                           Fields   Extra)Tj
+0 -1.4533 TD
+(   PichicataDepos-CON_NO-STRT_DT            )Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 323.881 559.56 15.72 re
+B*
+0.12 w 
+17.999 309.601 m
+577.559 309.601 l
+17.999 309.481 m
+577.559 309.481 l
+17.999 309.361 m
+577.559 309.361 l
+17.999 309.241 m
+577.559 309.241 l
+17.999 309.121 m
+577.559 309.121 l
+17.999 309.001 m
+577.559 309.001 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 330.1209 Tm
+0 0 0 rg
+0.0023 Tc
+(ProductoTasa)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 313.8009 Tm
+-0.0002 Tc
+(   Field    Type      Extra)Tj
+0 -1.4133 TD
+(P  Id       INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   PROD     TEXT      )Tj
+T*
+(   CCY      TEXT      )Tj
+T*
+(   IdTasa   INTEGER   )Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 231.961 559.56 15.72 re
+B*
+0.12 w 
+17.999 217.681 m
+577.559 217.681 l
+17.999 217.561 m
+577.559 217.561 l
+17.999 217.441 m
+577.559 217.441 l
+17.999 217.321 m
+577.559 217.321 l
+17.999 217.201 m
+577.559 217.201 l
+17.999 217.081 m
+577.559 217.081 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 238.201 Tm
+0 0 0 rg
+0.0023 Tc
+(QueEstado)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 221.881 Tm
+-0.0002 Tc
+(   Field       Type      Extra)Tj
+0 -1.4267 TD
+(P  Id          INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   QueEstado   varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 162.961 559.56 15.72 re
+B*
+0.12 w 
+17.999 148.681 m
+577.559 148.681 l
+17.999 148.561 m
+577.559 148.561 l
+17.999 148.441 m
+577.559 148.441 l
+17.999 148.321 m
+577.559 148.321 l
+17.999 148.201 m
+577.559 148.201 l
+17.999 148.081 m
+577.559 148.081 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 169.201 Tm
+0 0 0 rg
+0.0023 Tc
+(QueTasa)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 152.881 Tm
+-0.0002 Tc
+(   Field     Type      Extra)Tj
+0 -1.4133 TD
+(P  Id        INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   QueTasa   varchar   Allow Null)Tj
+ET
+endstream
+endobj
+16 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+18 0 obj
+<<
+/Length 2644
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(SBIF_A_BO07140926)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field    Type          Extra)Tj
+0 -1.4267 TD
+(   CTRY     varchar\(3\)    Allow Null)Tj
+0 -1.28 TD
+(   INTFDT   float         Allow Null)Tj
+T*
+(   SRCID    varchar\(14\)   Allow Null)Tj
+T*
+(   CEM      varchar\(3\)    Allow Null)Tj
+T*
+(   PROD     varchar\(16\)   Allow Null)Tj
+T*
+(   NROOPE   varchar\(20\)   Allow Null)Tj
+T*
+(   BOOKDT   float         Allow Null)Tj
+T*
+(   AIN      varchar\(20\)   Allow Null)Tj
+T*
+(   INDECR   varchar\(1\)    Allow Null)Tj
+T*
+(   CODEVC   varchar\(3\)    Allow Null)Tj
+T*
+(   OCYSGB   varchar\(1\)    Allow Null)Tj
+T*
+(   OCYBAL   float         Allow Null)Tj
+T*
+(   LCYSGB   varchar\(1\)    Allow Null)Tj
+T*
+(   LCYBAL   float         Allow Null)Tj
+T*
+(   LCYSGA   varchar\(1\)    Allow Null)Tj
+T*
+(   LCYBAG   float         Allow Null)Tj
+T*
+(   BR       varchar\(4\)    Allow Null)Tj
+T*
+(   CCCTO    varchar\(10\)   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 504.961 559.56 15.72 re
+B*
+0.12 w 
+17.999 490.681 m
+577.559 490.681 l
+17.999 490.561 m
+577.559 490.561 l
+17.999 490.441 m
+577.559 490.441 l
+17.999 490.321 m
+577.559 490.321 l
+17.999 490.201 m
+577.559 490.201 l
+17.999 490.081 m
+577.559 490.081 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 511.2009 Tm
+0 0 0 rg
+0.0023 Tc
+(SBIF_A_BO29140926)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 494.881 Tm
+-0.0002 Tc
+(   Field    Type          Extra)Tj
+0 -1.4133 TD
+(   CTRY     varchar\(3\)    Allow Null)Tj
+0 -1.28 TD
+(   INTFDT   float         Allow Null)Tj
+T*
+(   SRCID    varchar\(14\)   Allow Null)Tj
+T*
+(   CEM      varchar\(3\)    Allow Null)Tj
+T*
+(   PROD     varchar\(16\)   Allow Null)Tj
+T*
+(   NROOPE   varchar\(20\)   Allow Null)Tj
+T*
+(   BOOKDT   float         Allow Null)Tj
+T*
+(   AIN      varchar\(20\)   Allow Null)Tj
+T*
+(   INDECR   varchar\(1\)    Allow Null)Tj
+T*
+(   CODEVC   varchar\(3\)    Allow Null)Tj
+T*
+(   OCYSGB   varchar\(1\)    Allow Null)Tj
+T*
+(   OCYBAL   float         Allow Null)Tj
+T*
+(   LCYSGB   varchar\(1\)    Allow Null)Tj
+T*
+(   LCYBAL   float         Allow Null)Tj
+T*
+(   LCYSGA   varchar\(1\)    Allow Null)Tj
+T*
+(   LCYBAG   float         Allow Null)Tj
+T*
+(   BR       varchar\(4\)    Allow Null)Tj
+T*
+(   CCCTO    varchar\(10\)   Allow Null)Tj
+ET
+endstream
+endobj
+19 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+21 0 obj
+<<
+/Length 4411
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(SBIF_A_INT_OPE)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field                  Type          Extra)Tj
+0 -1.4267 TD
+(   ID_REG                 float         Allow Null)Tj
+0 -1.28 TD
+(   CTRY                   varchar\(3\)    Allow Null)Tj
+T*
+(   BOOK_DT                timestamp     Allow Null)Tj
+T*
+(   INTF_DT                timestamp     Allow Null)Tj
+T*
+(   SRC_ID                 varchar\(14\)   Allow Null)Tj
+T*
+(   CEM                    varchar\(3\)    Allow Null)Tj
+T*
+(   BR                     varchar\(4\)    Allow Null)Tj
+T*
+(   CON_STA                varchar\(3\)    Allow Null)Tj
+T*
+(   DLNQ_STA               varchar\(1\)    Allow Null)Tj
+T*
+(   PROD                   varchar\(16\)   Allow Null)Tj
+T*
+(   OPEN_DT                timestamp     Allow Null)Tj
+T*
+(   LST_ACCR_DT            timestamp     Allow Null)Tj
+T*
+(   IDENT_CLI              varchar\(12\)   Allow Null)Tj
+T*
+(   CC                     varchar\(10\)   Allow Null)Tj
+T*
+(   CON_NO                 varchar\(20\)   Allow Null)Tj
+T*
+(   STRT_DT                timestamp     Allow Null)Tj
+T*
+(   END_DT                 timestamp     Allow Null)Tj
+T*
+(   NEXT_RSET_RT_DT        timestamp     Allow Null)Tj
+T*
+(   INT_PYMT_ARRS_IND      varchar\(1\)    Allow Null)Tj
+T*
+(   CCY                    varchar\(4\)    Allow Null)Tj
+T*
+(   OCY_NOM_AMT_SIGN       varchar\(1\)    Allow Null)Tj
+T*
+(   OCY_NOM_AMT            float         Allow Null)Tj
+T*
+(   LCY_NOM_AMT_SIGN       varchar\(1\)    Allow Null)Tj
+T*
+(   LCY_NOM_AMT            float         Allow Null)Tj
+T*
+(   FCY_LC_AMT             float         Allow Null)Tj
+T*
+(   LCY_REAJ_AMT_SING      varchar\(1\)    Allow Null)Tj
+T*
+(   LCY_REAJ_AMT           float         Allow Null)Tj
+T*
+(   OCY_INT_AMT_SING       varchar\(1\)    Allow Null)Tj
+T*
+(   OCY_INT_AMT            float         Allow Null)Tj
+T*
+(   LCY_INT_AMT_SING       varchar\(1\)    Allow Null)Tj
+T*
+(   LCY_INT_AMT            float         Allow Null)Tj
+T*
+(   FIX_FLTING_IND         varchar\(2\)    Allow Null)Tj
+T*
+(   INT_RT_COD             varchar\(4\)    Allow Null)Tj
+T*
+(   INT_RT                 float         Allow Null)Tj
+T*
+(   PNLT_RT                float         Allow Null)Tj
+T*
+(   RT_METH                varchar\(1\)    Allow Null)Tj
+T*
+(   POOL_RT                float         Allow Null)Tj
+T*
+(   POOL_RT_COD            varchar\(5\)    Allow Null)Tj
+T*
+(   PNLT_RT_COD            varchar\(4\)    Allow Null)Tj
+T*
+(   INT_RT_SPRD            float         Allow Null)Tj
+T*
+(   POOL_RT_SPRD           float         Allow Null)Tj
+T*
+(   PNLT_RT_SPRD           float         Allow Null)Tj
+T*
+(   ASET_LIAB_IND          varchar\(1\)    Allow Null)Tj
+T*
+(   SBIF_BAL_NO_REP_SIGN   varchar\(1\)    Allow Null)Tj
+T*
+(   SBIF_BAL_NO_REP        float         Allow Null)Tj
+T*
+(   SBIF_TIPO_TASA         float         Allow Null)Tj
+T*
+(   SBIF_PROD_TRANS        float         Allow Null)Tj
+T*
+(   SBIF_TIPO_OPER_TRANS   float         Allow Null)Tj
+T*
+(   LCY_FEE_AMT_SIGN       varchar\(1\)    Allow Null)Tj
+T*
+(   LCY_FEE_AMT            float         Allow Null)Tj
+T*
+(   ORIG_STRT_DT           timestamp     Allow Null)Tj
+T*
+(   NACC_FROM_DT           timestamp     Allow Null)Tj
+T*
+(   PDUE_FROM_DT           timestamp     Allow Null)Tj
+T*
+(   WROF_FROM_DT           timestamp     Allow Null)Tj
+T*
+(   ORIG_CON_NO            varchar\(20\)   Allow Null)Tj
+T*
+(   NO_OF_REMN_COUP        float         Allow Null)Tj
+T*
+(   NO_OF_PDO_COUP         float         Allow Null)Tj
+T*
+(   NO_OF_TOT_COUP         float         Allow Null)Tj
+0 -1.2667 TD
+(   SBIF_DEST_COLOC        float         Allow Null)Tj
+0 -1.28 TD
+(   STOP_ACCR_DT           timestamp     Allow Null)Tj
+T*
+(   LST_INT_PYMT_DT        timestamp     Allow Null)Tj
+T*
+(   REN_IND                varchar\(1\)    Allow Null)Tj
+T*
+(   LST_RSET_DT            timestamp     Allow Null)Tj
+ET
+q
+17.999 12.961 270 3.84 re
+W n
+BT
+9.001 0 0 9 34.1991 9.7209 Tm
+[(NEXT)-600(RT)-600(CH)-600(DT)-5999.4(timestamp)-2999.7(Allow)-600(Null)]TJ
+ET
+Q
+endstream
+endobj
+22 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+24 0 obj
+<<
+/Length 5070
+>>
+stream
+BT
+/TT4 1 Tf
+9.001 0 0 9 17.9991 766.9209 Tm
+0 0 0 rg
+/GS1 gs
+-0.0002 Tc
+0 Tw
+(   LCY_AVL_BAL            float         Allow Null)Tj
+0 -1.28 TD
+(   LCY_PDO1_AMT           float         Allow Null)Tj
+T*
+(   LCY_PDO2_AMT           float         Allow Null)Tj
+T*
+(   LCY_PDO3_AMT           float         Allow Null)Tj
+T*
+(   LCY_OPER_AMT           float         Allow Null)Tj
+T*
+(   LOC                    float         Allow Null)Tj
+T*
+(   LCY_MNPY               float         Allow Null)Tj
+T*
+(   LGL_ACTN_IND           varchar\(1\)    Allow Null)Tj
+T*
+(   LCY_MV                 float         Allow Null)Tj
+T*
+(   LCY_PAR_VAL            float         Allow Null)Tj
+T*
+(   PORT_TYP               float         Allow Null)Tj
+T*
+(   NO_RNG                 float         Allow Null)Tj
+T*
+(   PDC_COUP               float         Allow Null)Tj
+T*
+(   PGO_AMT                float         Allow Null)Tj
+T*
+(   CON_NO_TYP             varchar\(1\)    Allow Null)Tj
+T*
+(   OPE_TYP                varchar\(1\)    Allow Null)Tj
+T*
+(   MOD_ENTR_BS            varchar\(1\)    Allow Null)Tj
+T*
+(   OPC_COMPRA             float         Allow Null)Tj
+T*
+(   IDENT_INSTR            varchar\(5\)    Allow Null)Tj
+T*
+(   IDENT_EMI_INST         varchar\(15\)   Allow Null)Tj
+T*
+(   SERIE_INST             varchar\(4\)    Allow Null)Tj
+T*
+(   SUBSERIE_INST          varchar\(4\)    Allow Null)Tj
+T*
+(   CAT_RISK_INSTR         varchar\(3\)    Allow Null)Tj
+T*
+(   LIMIT_RATE             float         Allow Null)Tj
+T*
+(   PDC_AFTER_FIX_PER      float         Allow Null)Tj
+T*
+(   LCY_PDO4_AMT           float         Allow Null)Tj
+T*
+(   LCY_PDO5_AMT           float         Allow Null)Tj
+T*
+(   LCY_PDO6_AMT           float         Allow Null)Tj
+T*
+(   SBIF_NO_REP_IND        varchar\(1\)    Allow Null)Tj
+T*
+(   LCY_OTR_CONT_AMT       float         Allow Null)Tj
+T*
+(   LCY_PDO7_AMT           float         Allow Null)Tj
+T*
+(   LCY_PDO8_AMT           float         Allow Null)Tj
+T*
+(   LCY_PDO9_AMT           float         Allow Null)Tj
+T*
+(   ASSETS_ORIGIN          varchar\(1\)    Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+1 i 
+17.999 352.201 559.56 15.72 re
+B*
+0.12 w 
+17.999 337.921 m
+577.559 337.921 l
+17.999 337.801 m
+577.559 337.801 l
+17.999 337.681 m
+577.559 337.681 l
+17.999 337.561 m
+577.559 337.561 l
+17.999 337.441 m
+577.559 337.441 l
+17.999 337.321 m
+577.559 337.321 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 358.4409 Tm
+0 0 0 rg
+0.0023 Tc
+(Segmento)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 342.1209 Tm
+-0.0002 Tc
+(   Field    Type      Extra)Tj
+0 -1.4267 TD
+(P  Id       INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Nombre   VARCHAR   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 283.201 559.56 15.72 re
+B*
+0.12 w 
+17.999 268.921 m
+577.559 268.921 l
+17.999 268.801 m
+577.559 268.801 l
+17.999 268.681 m
+577.559 268.681 l
+17.999 268.561 m
+577.559 268.561 l
+17.999 268.441 m
+577.559 268.441 l
+17.999 268.321 m
+577.559 268.321 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 289.4409 Tm
+0 0 0 rg
+0.0023 Tc
+(sqlite_sequence)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 273.121 Tm
+-0.0002 Tc
+(   Field   Type   Extra)Tj
+0 -1.4133 TD
+(   name           Allow Null)Tj
+0 -1.28 TD
+(   seq            Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 214.321 559.56 15.72 re
+B*
+0.12 w 
+17.999 200.041 m
+577.559 200.041 l
+17.999 199.921 m
+577.559 199.921 l
+17.999 199.801 m
+577.559 199.801 l
+17.999 199.681 m
+577.559 199.681 l
+17.999 199.561 m
+577.559 199.561 l
+17.999 199.441 m
+577.559 199.441 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 220.561 Tm
+0 0 0 rg
+0.0023 Tc
+(Tasa)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 204.241 Tm
+-0.0002 Tc
+(   Field         Type      Extra)Tj
+0 -1.4267 TD
+(P  Id            INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Nombre        varchar   Allow Null)Tj
+T*
+(   Descripcion   varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 133.801 559.56 15.72 re
+B*
+0.12 w 
+17.999 119.521 m
+577.559 119.521 l
+17.999 119.401 m
+577.559 119.401 l
+17.999 119.281 m
+577.559 119.281 l
+17.999 119.161 m
+577.559 119.161 l
+17.999 119.041 m
+577.559 119.041 l
+17.999 118.921 m
+577.559 118.921 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 140.041 Tm
+0 0 0 rg
+0.0023 Tc
+(TasaRemuneracionCtaCorriente)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 123.7209 Tm
+-0.0002 Tc
+(   Field        Type      Extra)Tj
+0 -1.4133 TD
+(P  Id           INTEGER   )Tj
+0 -1.28 TD
+(   Periodo      INTEGER   Allow Null)Tj
+T*
+(   IdSegmento   INTEGER   Allow Null)Tj
+T*
+(   Tasa         REAL      Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 41.881 559.56 15.72 re
+B*
+0.12 w 
+17.999 27.601 m
+577.559 27.601 l
+17.999 27.481 m
+577.559 27.481 l
+17.999 27.361 m
+577.559 27.361 l
+17.999 27.241 m
+577.559 27.241 l
+17.999 27.121 m
+577.559 27.121 l
+17.999 27.001 m
+577.559 27.001 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 48.1209 Tm
+0 0 0 rg
+0.0023 Tc
+(TasasBonos)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 31.801 Tm
+-0.0002 Tc
+(   Field   Type   Extra)Tj
+0 -1.4267 TD
+(   Serie   TEXT   Allow Null)Tj
+ET
+q
+17.999 12.961 151.2 1.56 re
+W n
+BT
+9.001 0 0 9 39.5991 7.4409 Tm
+8.3989 Tc
+[(il)8399.1(l)5399.4(l)8399.1(l)]TJ
+ET
+Q
+endstream
+endobj
+25 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+27 0 obj
+<<
+/Length 4718
+>>
+stream
+0.824 0.824 0.824 rg
+0 0 0 RG
+1 J 0 j 0.72 w 10 M []0 d
+/GS1 gs
+1 i 
+17.999 758.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 744.001 m
+577.559 744.001 l
+17.999 743.881 m
+577.559 743.881 l
+17.999 743.761 m
+577.559 743.761 l
+17.999 743.641 m
+577.559 743.641 l
+17.999 743.521 m
+577.559 743.521 l
+17.999 743.401 m
+577.559 743.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 764.5209 Tm
+0 0 0 rg
+0.0023 Tc
+0 Tw
+(TipoArchivo)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 748.2009 Tm
+-0.0002 Tc
+(   Field   Type      Extra)Tj
+0 -1.4267 TD
+(P  Id      INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Tipo    varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 689.281 559.56 15.72 re
+B*
+0.12 w 
+17.999 675.001 m
+577.559 675.001 l
+17.999 674.881 m
+577.559 674.881 l
+17.999 674.761 m
+577.559 674.761 l
+17.999 674.641 m
+577.559 674.641 l
+17.999 674.521 m
+577.559 674.521 l
+17.999 674.401 m
+577.559 674.401 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 695.5209 Tm
+0 0 0 rg
+0.0023 Tc
+(TipoInterfaz)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 679.2009 Tm
+-0.0002 Tc
+(   Field            Type      Extra)Tj
+0 -1.4133 TD
+(P  Id               INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Nombre           varchar   Allow Null)Tj
+T*
+(   Descripcion      varchar   Allow Null)Tj
+T*
+(   idTablaDestino   INTEGER   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 597.361 559.56 15.72 re
+B*
+0.12 w 
+17.999 583.081 m
+577.559 583.081 l
+17.999 582.961 m
+577.559 582.961 l
+17.999 582.841 m
+577.559 582.841 l
+17.999 582.721 m
+577.559 582.721 l
+17.999 582.601 m
+577.559 582.601 l
+17.999 582.481 m
+577.559 582.481 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 603.601 Tm
+0 0 0 rg
+0.0023 Tc
+(TipoTasa)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 587.2809 Tm
+-0.0002 Tc
+(   Field   Type      Extra)Tj
+0 -1.4267 TD
+(P  Id      INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Tipo    varchar   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 528.361 559.56 15.72 re
+B*
+0.12 w 
+17.999 514.081 m
+577.559 514.081 l
+17.999 513.961 m
+577.559 513.961 l
+17.999 513.841 m
+577.559 513.841 l
+17.999 513.721 m
+577.559 513.721 l
+17.999 513.601 m
+577.559 513.601 l
+17.999 513.481 m
+577.559 513.481 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 534.601 Tm
+0 0 0 rg
+0.0023 Tc
+(ValorDivisas)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 518.2809 Tm
+-0.0002 Tc
+(   Field         Type      Extra)Tj
+0 -1.4133 TD
+(P  Id            INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Fecha         INTEGER   Allow Null)Tj
+T*
+(   idDivisa      INTEGER   Allow Null)Tj
+T*
+(   ValorDivisa   REAL      Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 436.441 559.56 15.72 re
+B*
+0.12 w 
+17.999 422.161 m
+577.559 422.161 l
+17.999 422.041 m
+577.559 422.041 l
+17.999 421.921 m
+577.559 421.921 l
+17.999 421.801 m
+577.559 421.801 l
+17.999 421.681 m
+577.559 421.681 l
+17.999 421.561 m
+577.559 421.561 l
+S
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 442.6809 Tm
+0 0 0 rg
+0.0023 Tc
+(ValorTasa)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 426.3609 Tm
+-0.0002 Tc
+(   Field    Type      Extra)Tj
+0 -1.4267 TD
+(P  Id       INTEGER   )Tj
+0 -1.28 TD
+(   Fecha    INTEGER   Allow Null)Tj
+T*
+(   idTasa   INTEGER   Allow Null)Tj
+T*
+(   Valor    REAL      Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 344.401 559.56 15.72 re
+B*
+0.12 w 
+17.999 330.121 m
+577.559 330.121 l
+17.999 330.001 m
+577.559 330.001 l
+17.999 329.881 m
+577.559 329.881 l
+17.999 329.761 m
+577.559 329.761 l
+17.999 329.641 m
+577.559 329.641 l
+17.999 329.521 m
+577.559 329.521 l
+S
+q
+21.599 347.641 204 11.04 re
+W n
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 350.6409 Tm
+0 0 0 rg
+0 Tc
+(_)Tj
+ET
+Q
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 27.5991 350.6409 Tm
+0 0 0 rg
+0.0023 Tc
+(DESCRIPCION_PRODUCTO_old_20141112)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 334.3209 Tm
+-0.0002 Tc
+(   Field            Type           Extra)Tj
+0 -1.4133 TD
+(   Id               integer        Allow Null)Tj
+0 -1.28 TD
+(   PROD             varchar\(255\)   Allow Null)Tj
+T*
+(   AP               varchar\(255\)   Allow Null)Tj
+T*
+(   Nombre_Informe   varchar\(255\)   Allow Null)Tj
+ET
+0.824 0.824 0.824 rg
+0.72 w 
+17.999 252.481 559.56 15.72 re
+B*
+0.12 w 
+17.999 238.201 m
+577.559 238.201 l
+17.999 238.081 m
+577.559 238.081 l
+17.999 237.961 m
+577.559 237.961 l
+17.999 237.841 m
+577.559 237.841 l
+17.999 237.721 m
+577.559 237.721 l
+17.999 237.601 m
+577.559 237.601 l
+S
+q
+21.599 255.721 156 11.04 re
+W n
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 21.5991 258.7209 Tm
+0 0 0 rg
+0 Tc
+(_)Tj
+ET
+Q
+BT
+/TT2 1 Tf
+9.961 0 0 9.96 27.5991 258.7209 Tm
+0 0 0 rg
+0.0023 Tc
+(ValorDivisas_old_20141112)Tj
+/TT4 1 Tf
+9.001 0 0 9 17.9991 242.401 Tm
+-0.0002 Tc
+(   Field         Type      Extra)Tj
+0 -1.4267 TD
+(   Id            INTEGER   Auto Increment)Tj
+0 -1.28 TD
+(   Fecha         INTEGER   Allow Null)Tj
+T*
+(   idDivisa      INTEGER   Allow Null)Tj
+T*
+(   ValorDivisa   REAL      Allow Null)Tj
+ET
+endstream
+endobj
+28 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+>>
+/ExtGState <<
+/GS1 6 0 R
+>>
+>>
+endobj
+6 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+29 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 262179
+/FontBBox [-113 -250 749 801]
+/FontName /Courier-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 439
+/StemH 84
+>>
+endobj
+30 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 753
+/CapHeight 562
+/Descent -246
+/Flags 35
+/FontBBox [-28 -250 628 805]
+/FontName /Courier
+/ItalicAngle 0
+/StemV 51
+/XHeight 426
+/StemH 51
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 48
+/LastChar 122
+/Widths [600 600 600 0 600 0 600 600 0 600 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 0 600 0 0 600 0 600 600 
+600 600 600 600 600 600 600 0 0 0 0 0 0 0 0 600 
+0 600 600 600 600 600 600 600 600 600 0 0 600 600 600 600 
+600 600 600 600 600 600 600 0 600 0 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier-Bold
+/FontDescriptor 29 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 122
+/Widths [600 0 0 0 0 0 0 0 600 600 0 0 0 600 0 0 
+600 600 600 600 600 600 600 600 600 600 0 0 0 0 0 0 
+0 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
+600 600 600 600 600 600 600 600 600 600 0 0 0 0 0 600 
+0 600 600 600 600 600 600 600 600 600 0 600 600 600 600 600 
+600 600 600 600 600 600 600 600 600 600 600 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Courier
+/FontDescriptor 30 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 10 0 R
+/Contents 9 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 13 0 R
+/Contents 12 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 16 0 R
+/Contents 15 0 R
+>>
+endobj
+17 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 19 0 R
+/Contents 18 0 R
+>>
+endobj
+20 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 22 0 R
+/Contents 21 0 R
+>>
+endobj
+23 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 25 0 R
+/Contents 24 0 R
+>>
+endobj
+26 0 obj
+<<
+/Type /Page
+/Parent 7 0 R
+/Resources 28 0 R
+/Contents 27 0 R
+>>
+endobj
+31 0 obj
+<<
+/S /D
+>>
+endobj
+32 0 obj
+<<
+/Nums [0 31 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 8 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R]
+/Count 8
+/MediaBox [0 0 612 792]
+>>
+endobj
+33 0 obj
+<<
+/CreationDate (D:20141209111940-03'00')
+/ModDate (D:20141209111940-03'00')
+/Producer (Apple pstopdf)
+>>
+endobj
+34 0 obj
+<<
+/Type /Catalog
+/Pages 7 0 R
+/PageLabels 32 0 R
+>>
+endobj
+xref
+0 35
+0000000000 65535 f 
+0000038375 00000 n 
+0000000016 00000 n 
+0000004932 00000 n 
+0000037483 00000 n 
+0000037898 00000 n 
+0000036950 00000 n 
+0000039102 00000 n 
+0000038455 00000 n 
+0000005038 00000 n 
+0000009887 00000 n 
+0000038536 00000 n 
+0000009994 00000 n 
+0000014864 00000 n 
+0000038619 00000 n 
+0000014971 00000 n 
+0000019360 00000 n 
+0000038702 00000 n 
+0000019467 00000 n 
+0000022164 00000 n 
+0000038785 00000 n 
+0000022271 00000 n 
+0000026735 00000 n 
+0000038868 00000 n 
+0000026842 00000 n 
+0000031965 00000 n 
+0000038951 00000 n 
+0000032072 00000 n 
+0000036843 00000 n 
+0000037090 00000 n 
+0000037292 00000 n 
+0000039034 00000 n 
+0000039062 00000 n 
+0000039231 00000 n 
+0000039354 00000 n 
+trailer
+<<
+/Size 35
+/Root 34 0 R
+/Info 33 0 R
+/ID [<2902d39e39815dbcb202570db051a450><2902d39e39815dbcb202570db051a450>]
+>>
+startxref
+39423
+%%EOF
